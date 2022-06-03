@@ -109,7 +109,7 @@ Partial Class Form1
         Me.log.Location = New System.Drawing.Point(16, 249)
         Me.log.Multiline = True
         Me.log.Name = "log"
-        Me.log.Size = New System.Drawing.Size(1401, 961)
+        Me.log.Size = New System.Drawing.Size(519, 493)
         Me.log.TabIndex = 10
         '
         'getTweets
@@ -159,7 +159,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(2731, 1248)
+        Me.ClientSize = New System.Drawing.Size(546, 757)
         Me.Controls.Add(Me.txt_hashtag)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.ListBox1)

@@ -1,0 +1,17 @@
+C:\temp\projecten\TTP\TTP\bin\Release\TTP.exe.config
+C:\temp\projecten\TTP\TTP\bin\Release\TTP.exe
+C:\temp\projecten\TTP\TTP\bin\Release\TTP.pdb
+C:\temp\projecten\TTP\TTP\bin\Release\TTP.xml
+C:\temp\projecten\TTP\TTP\bin\Release\Autofac.dll
+C:\temp\projecten\TTP\TTP\bin\Release\System.Reflection.TypeExtensions.dll
+C:\temp\projecten\TTP\TTP\bin\Release\Autofac.pdb
+C:\temp\projecten\TTP\TTP\bin\Release\Autofac.xml
+C:\temp\projecten\TTP\TTP\obj\Release\TTP.vbproj.AssemblyReference.cache
+C:\temp\projecten\TTP\TTP\obj\Release\TTP.Form1.resources
+C:\temp\projecten\TTP\TTP\obj\Release\TTP.Resources.resources
+C:\temp\projecten\TTP\TTP\obj\Release\TTP.vbproj.GenerateResource.cache
+C:\temp\projecten\TTP\TTP\obj\Release\TTP.vbproj.CoreCompileInputs.cache
+C:\temp\projecten\TTP\TTP\obj\Release\TTP.vbproj.CopyComplete
+C:\temp\projecten\TTP\TTP\obj\Release\TTP.exe
+C:\temp\projecten\TTP\TTP\obj\Release\TTP.xml
+C:\temp\projecten\TTP\TTP\obj\Release\TTP.pdb
